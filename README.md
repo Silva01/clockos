@@ -2,6 +2,7 @@
 
 ![vue-version](https://img.shields.io/badge/vue-%5E3.2.13-green)
 ![release](https://img.shields.io/badge/release-1.0.0-orange)
+[![Node.js CI](https://github.com/Silva01/clockos/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/Silva01/clockos/actions/workflows/node.js.yml)
 
 ![logo](./logo.png)
 
