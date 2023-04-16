@@ -1,5 +1,7 @@
 # clockos
 
+![logo](./logo.png)
+
 ## Project setup
 ```
 npm install
