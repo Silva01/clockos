@@ -1,5 +1,8 @@
 # clockos
 
+![vue-version](https://img.shields.io/badge/vue-%5E3.2.13-green)
+![release](https://img.shields.io/badge/release-1.0.0-orange)
+
 ![logo](./logo.png)
 
 ## Project setup
