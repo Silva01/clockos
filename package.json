@@ -6,12 +6,14 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "prod": "npm run build && serve -s dist"
   },
   "dependencies": {
     "core-js": "^3.8.3",
     "register-service-worker": "^1.7.2",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
@@ -50,7 +52,7 @@
       "ecmaVersion": 2020
     },
     "rules": {},
-        "overrides": [
+    "overrides": [
       {
         "files": [
           "**/__tests__/*.{j,t}s?(x)",
